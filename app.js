@@ -3,7 +3,7 @@
 // ═══════════════════════════════════════════════════════════
 const CONFIG = {
   SHEET_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3IIb-he7BSLhETSIBVNMN64umgVYJG33luwPJmWKTEb--El7282hOaAT0vXFY5pnJGnY20eKM-bFt/pub?gid=606239050&single=true&output=csv',
-  PASSWORD_HASH: 'f09898c57d2c74f58f08603a63922a20675dc36e81358348cb000b9cd0277e22',
+  PASSWORD_HASH: '3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d',
   AUTH_DAYS: 30,
   REFRESH_MINUTES: 5,
   UPCOMING_DAYS: 60,
